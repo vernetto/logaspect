@@ -7,6 +7,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @EnableAspectJAutoProxy
 public class MyConfig {
     public static void main(String[] args) {
-        System.out.println("piao");
+        System.out.println("liao");
+        System.out.println("miao");
     }
 }
